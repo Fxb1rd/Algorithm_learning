@@ -1,0 +1,14 @@
+动态规划
+KNN
+朴素贝叶斯
+B树
+红黑树
+堆
+伸展树
+反向索引
+傅里叶变换
+MapReduce 
+布隆过滤器 HyperLogLog 
+SHA  Simhash
+Diffie-Hellman
+线性规划 Simplex算法
